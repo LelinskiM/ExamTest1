@@ -1,0 +1,13 @@
+{
+  "name": "Alice Smith",
+  "age": 29,
+  "height": 5.7,
+  "isStudent": false,
+  "hobbies": ["reading", "cycling", "coding"],
+  "address": {
+    "city": "New York",
+    "zip": 10001
+  },
+  "graduationYear": 2020,
+  "email": "alice.smith@example.com"
+}
