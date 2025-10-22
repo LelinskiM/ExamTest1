@@ -1,13 +1,44 @@
-{
-  "name": "Alice Smith",
-  "age": 29,
-  "height": 5.7,
-  "isStudent": false,
-  "hobbies": ["reading", "cycling", "coding"],
-  "address": {
-    "city": "New York",
-    "zip": 10001
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "age": 29,
+    "isStudent": false,
+    "city": "New York"
   },
-  "graduationYear": 2020,
-  "email": "alice.smith@example.com"
-}
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "age": 34,
+    "isStudent": true,
+    "city": "Chicago"
+  },
+  {
+    "id": 3,
+    "name": "Carla Ruiz",
+    "age": 27,
+    "isStudent": false,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 4,
+    "name": "David Lee",
+    "age": 41,
+    "isStudent": false,
+    "city": "Toronto"
+  },
+  {
+    "id": 5,
+    "name": "Eva Müller",
+    "age": 32,
+    "isStudent": true,
+    "city": "Berlin"
+  },
+  {
+    "id": 6,
+    "name": "Frank O'Connor",
+    "age": 38,
+    "isStudent": false,
+    "city": "Dublin"
+  }
+]
