@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <record>
+        <title>Introduction to XML</title>
+        <author>Alice Smith</author>
+        <year>2021</year>
+        <publisher>Example Press</publisher>
+    </record>
+
+
+    <record>
+        <title>Advanced XML Techniques</title>
+        <author>Bob Johnson</author>
+        <year>2022</year>
+        <publisher>Tech Books</publisher>
+    </record>
+
+
+    <record>
+        <title>XML in Practice</title>
+        <author>Carla Ruiz</author>
+        <year>2020</year>
+        <publisher>Practical Media</publisher>
+    </record>
+
+
+    <record>
+        <title>XML for Web</title>
+        <author>David Lee</author>
+        <year>2019</year>
+        <publisher>WebWorks</publisher>
+    </record>
+
+
+    <record>
+        <title>XML and Data</title>
+        <author>Eva Müller</author>
+        <year>2018</year>
+        <publisher>DataPress</publisher>
+    </record>
+
+
+    <record>
+        <title>XML Recipes</title>
+        <author>Frank O'Connor</author>
+        <year>2023</year>
+        <publisher>Cookbook Pub</publisher>
+    </record>
+</catalog>
