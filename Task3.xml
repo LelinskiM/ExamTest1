@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <record>
+        <title language="English" format="hardcover">Introduction to XML</title>
+        <author nationality="USA" gender="female">Alice Smith</author>
+        <year type="Gregorian" precision="exact">2021</year>
+        <publisher location="New York" size="large">Example Press</publisher>
+    </record>
+
+    <record>
+        <title language="English" format="Hardcover">Advanced XML Techniques</title>
+        <author nationality="British" gender="Male">Bob Johnson</author>
+        <year type="Gregorian" precision="Exact">2022</year>
+        <publisher location="London" size="Large">Tech Books</publisher>
+    </record>
+
+
+    <record>
+        <title language="Spanish" format="Paperback">XML in Practice</title>
+        <author nationality="Mexican" gender="Female">Carla Ruiz</author>
+        <year type="Gregorian" precision="Approximate">2020</year>
+        <publisher location="Madrid" size="Small">Practical Media</publisher>
+    </record>
+
+
+    <record>
+        <title language="English" format="Ebook">XML for Web</title>
+        <author nationality="Canadian" gender="Male">David Lee</author>
+        <year type="Gregorian" precision="Exact">2019</year>
+        <publisher location="Toronto" size="Medium">WebWorks</publisher>
+    </record>
+
+
+    <record>
+        <title language="German" format="Paperback">XML and Data</title>
+        <author nationality="German" gender="Female">Eva Müller</author>
+        <year type="Gregorian" precision="Exact">2018</year>
+        <publisher location="Berlin" size="Large">DataPress</publisher>
+    </record>
+
+
+    <record>
+        <title language="English" format="Hardcover">XML Recipes</title>
+        <author nationality="Irish" gender="Male">Frank O'Connor</author>
+        <year type="Gregorian" precision="Exact">2023</year>
+        <publisher location="Dublin" size="Small">Cookbook Pub</publisher>
+    </record>
+</catalog>
